@@ -6,8 +6,8 @@ https://blog.ttulka.com/learning-webassembly-10-image-processing-in-assemblyscri
 
 ## Build
 ```sh
-npm i
-npm run asbuild:optimized -- --importMemory
+npm install
+npm run asbuild
 ```
 
 ## Run
